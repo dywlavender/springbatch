@@ -8,7 +8,7 @@
     <artifactId>springbatch</artifactId>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>study</module>
+        <module>asyncDemo</module>
         <module>batch</module>
         <module>DataStructures</module>
     </modules>

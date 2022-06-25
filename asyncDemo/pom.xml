@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>study</artifactId>
+    <artifactId>asyncDemo</artifactId>
     <dependencies>
         <!--spring boot 2.2.2-->
         <dependency>
